@@ -9,4 +9,4 @@
   * Scarcrows
   * Increasing Enemy Numbers
 
-Play the game here! [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+Play the game here!(https://jseaman1.github.io/bushrunktah/ "Google's Homepage")
