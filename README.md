@@ -1,6 +1,6 @@
 # Bush Run
 
-## Created By Josh Seaman and Kyle Travese for CMSI 185
+## Created By Josh Seaman and Kyle Traverse for CMSI 185
 
 ### A baby K'tah game
 
