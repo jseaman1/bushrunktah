@@ -27,7 +27,7 @@ let hotdog;
 let health = 40;
 let canvasWidth = 800;
 let canvasHeight = 620;
-
+let multiplyer = 1.3;
 let counter = 0;
 
 const timer = document.querySelector("#timer");
@@ -110,7 +110,6 @@ function pushOffEnemy(c1, c2) {
 }
 
 function newEnemy() {
-  let multiplyer = 1.3;
   enemies.push(
     new Character(
       20,
