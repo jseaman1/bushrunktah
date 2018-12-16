@@ -50,7 +50,7 @@ function preload() {
 
 function draw() {
   background(bg);
-  if (health === 0) {
+  if (health <= 0) {
     end();
   }
   player.draw(bush);
